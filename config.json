@@ -1,0 +1,11 @@
+{
+  "browserlessURLs": [
+    "ws://localhost:3000",
+    "ws://localhost:3001",
+    "ws://localhost:3002"
+  ],
+  "threadPools": [100, 100, 100],
+  "memoryLimits": [52428800000, 52428800000, 52428800000],  
+  "logFilePath": "scan.log",
+  "screenshot": true  
+}
