@@ -1,10 +1,5 @@
 # JS分布式渲染工具
-<img src="https://img.shields.io/badge/%E5%8F%AF%E6%8E%A7%E5%88%B6%E5%B9%B6%E5%8F%91%E5%8D%8F%E7%A8%8B%E6%95%B0-passing" alt="languages-top" />
-<img src="https://img.shields.io/badge/%E6%94%AF%E6%8C%81%E5%A4%9A%E9%87%87%E9%9B%86%E4%BB%BB%E5%8A%A1%E5%B9%B6%E5%8F%91%E6%89%A7%E8%A1%8C-passing" alt="languages-top" />
-<img src="https://img.shields.io/badge/%E5%8F%AF%E9%85%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BA%BF%E7%A8%8B%E6%B1%A0%E6%95%B0-passing" alt="languages-top" />
-<img src="https://img.shields.io/badge/%E5%8F%AF%E6%8E%A7%E5%88%B6%E5%B9%B6%E5%8F%91%E5%8D%8F%E7%A8%8B%E6%95%B0-passing" alt="languages-top" />
-<img src="https://img.shields.io/badge/%E5%8F%AF%E9%85%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%86%85%E5%AD%98%E5%A4%A7%E5%B0%8F-passing" alt="languages-top" />
-<img src="https://img.shields.io/badge/%E5%8F%AF%E9%85%8D%E7%BD%AE%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%8F%8A%E5%9C%B0%E5%9D%80-passing" alt="languages-top" />
+<img src="https://img.shields.io/badge/%E5%8F%AF%E6%8E%A7%E5%88%B6%E5%B9%B6%E5%8F%91%E5%8D%8F%E7%A8%8B%E6%95%B0-passing" alt="languages-top" /> <img src="https://img.shields.io/badge/%E6%94%AF%E6%8C%81%E5%A4%9A%E9%87%87%E9%9B%86%E4%BB%BB%E5%8A%A1%E5%B9%B6%E5%8F%91%E6%89%A7%E8%A1%8C-passing" alt="languages-top" /> <img src="https://img.shields.io/badge/%E5%8F%AF%E9%85%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BA%BF%E7%A8%8B%E6%B1%A0%E6%95%B0-passing" alt="languages-top" /> <img src="https://img.shields.io/badge/%E5%8F%AF%E6%8E%A7%E5%88%B6%E5%B9%B6%E5%8F%91%E5%8D%8F%E7%A8%8B%E6%95%B0-passing" alt="languages-top" /> <img src="https://img.shields.io/badge/%E5%8F%AF%E9%85%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%86%85%E5%AD%98%E5%A4%A7%E5%B0%8F-passing" alt="languages-top" /> <img src="https://img.shields.io/badge/%E5%8F%AF%E9%85%8D%E7%BD%AE%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0%E5%8F%8A%E5%9C%B0%E5%9D%80-passing" alt="languages-top" />
 
 ## 本项目旨在提供一个高效的分布式渲染工具，能够均衡负载，防止内存溢出，并且具有良好的可读性、可维护性和可扩展性。通过配置文件的方式，用户可以轻松定制化设置，并且日志输出也支持定制化路径。
 
